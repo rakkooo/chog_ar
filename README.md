@@ -1,3 +1,3 @@
 # chog ar page
 
-https://tiggerland.github.io/chog_ar/
+https://rakkooo.github.io/chog_ar/
